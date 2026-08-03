@@ -1,0 +1,10 @@
+{
+  "mapping": [
+    "/content/aem-labs/:/",
+    "/content/aem-labs/configuration:/.helix/config.json",
+    "/content/aem-labs/metadata:/metadata.json"
+  ],
+  "includes": [
+    "/content/aem-labs/"
+  ]
+}
